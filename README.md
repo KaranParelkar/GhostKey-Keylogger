@@ -4,14 +4,18 @@ This Python script is a keylogger tool designed to capture keystrokes on a syste
 
 ## Features:
 
-1.Stealthy Keylogging: The script runs silently in the background without any visible indication to the user.'\n'
-2.Customizable Log File: You can specify the name of the log file where keystrokes are saved.\n
-3.Print Log: You have the option to print the contents of the keylog file.\n
-4.User-Friendly Interface: Provides clear instructions and options for usage.\n
+1.Stealthy Keylogging: The script runs silently in the background without any visible indication to the user.
+
+2.Customizable Log File: You can specify the name of the log file where keystrokes are saved.
+
+3.Print Log: You have the option to print the contents of the keylog file.
+
+4.User-Friendly Interface: Provides clear instructions and options for usage.
 
 ## Requirements:
 
  Python 3.x\n
+ 
  pynput library (automatically installed if not found)
 
 ## Installation:
@@ -43,7 +47,9 @@ This command will start the keylogger. You can use the -l or --log flag to print
 ## Note:
 
 Root Privileges: This script requires root privileges to run, as it interacts with system input devices.
+
 Security and Legal Considerations: It's essential to use this script responsibly and ethically.
+
 Keylogging without proper authorization may violate privacy laws and ethical standards.
 
 ## Disclaimer:
@@ -52,4 +58,5 @@ This script is provided for educational purposes only. The author is not respons
 
 ## Contribution:
 
-I am thrilled to welcome contributions from the community to enhance this project! Your ideas, suggestions, and improvements are invaluable in making this keylogger even better.
+I am thrilled to welcome contributions from the community to enhance this project! 
+Your ideas, suggestions, and improvements are invaluable in making this keylogger even better.
