@@ -42,7 +42,7 @@ Run the Script:
 
 This command will start the keylogger. You can use the -l or --log flag to print the contents of the keylog file:
 
-    python3 keylogger.py -l
+    python3 Ghostkey.py -l
 
 ## Note:
 
