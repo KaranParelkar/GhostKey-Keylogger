@@ -4,7 +4,7 @@ This Python script is a keylogger tool designed to capture keystrokes on a syste
 
 ## Features:
 
-1.Stealthy Keylogging: The script runs silently in the background without any visible indication to the user.\n
+1.Stealthy Keylogging: The script runs silently in the background without any visible indication to the user.'\n'
 2.Customizable Log File: You can specify the name of the log file where keystrokes are saved.\n
 3.Print Log: You have the option to print the contents of the keylog file.\n
 4.User-Friendly Interface: Provides clear instructions and options for usage.\n
